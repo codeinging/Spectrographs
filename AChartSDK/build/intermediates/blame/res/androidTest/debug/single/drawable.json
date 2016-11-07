@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\soft_develope\\project\\Spectrograph\\AChartSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\zoom_in.png",
+        "source": "E:\\soft_develope\\project\\Spectrograph\\AChartSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\zoom_in.png"
+    },
+    {
+        "merged": "E:\\soft_develope\\project\\Spectrograph\\AChartSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\zoom_out.png",
+        "source": "E:\\soft_develope\\project\\Spectrograph\\AChartSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\zoom_out.png"
+    },
+    {
+        "merged": "E:\\soft_develope\\project\\Spectrograph\\AChartSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\zoom_1.png",
+        "source": "E:\\soft_develope\\project\\Spectrograph\\AChartSDK\\build\\intermediates\\bundles\\debug\\res\\drawable\\zoom_1.png"
+    }
+]

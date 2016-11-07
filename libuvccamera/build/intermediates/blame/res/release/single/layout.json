@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\soft_develope\\project\\Spectrograph\\libuvccamera\\build\\intermediates\\res\\merged\\release\\layout\\listitem_device.xml",
+        "source": "E:\\soft_develope\\project\\Spectrograph\\libuvccamera\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "E:\\soft_develope\\project\\Spectrograph\\libuvccamera\\build\\intermediates\\res\\merged\\release\\layout\\dialog_camera.xml",
+        "source": "E:\\soft_develope\\project\\Spectrograph\\libuvccamera\\src\\main\\res\\layout\\dialog_camera.xml"
+    }
+]

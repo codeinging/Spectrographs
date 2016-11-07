@@ -1,0 +1,178 @@
+[
+    {
+        "outputFile": "E:\\soft_develope\\project\\Spectrograph\\libuvccamera\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "E:\\soft_develope\\project\\Spectrograph\\libuvccamera\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 1,
+                        "startOffset": 1104,
+                        "endColumn": 39,
+                        "endOffset": 1142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 48,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "E:\\soft_develope\\project\\Spectrograph\\libuvccamera\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 1014,
+                        "endColumn": 45,
+                        "endOffset": 1058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 147,
+                    "endColumn": 45,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "E:\\soft_develope\\project\\Spectrograph\\libuvccamera\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1147,
+                        "endColumn": 45,
+                        "endOffset": 1188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 193,
+                    "endColumn": 46,
+                    "endOffset": 235
+                },
+                "from": {
+                    "file": "E:\\soft_develope\\project\\Spectrograph\\libuvccamera\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1193,
+                        "endColumn": 46,
+                        "endOffset": 1235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 240,
+                    "endColumn": 46,
+                    "endOffset": 282
+                },
+                "from": {
+                    "file": "E:\\soft_develope\\project\\Spectrograph\\libuvccamera\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1060,
+                        "endColumn": 43,
+                        "endOffset": 1102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 287,
+                    "endColumn": 41,
+                    "endOffset": 324
+                },
+                "from": {
+                    "file": "E:\\soft_develope\\project\\Spectrograph\\libuvccamera\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1075,
+                        "endColumn": 41,
+                        "endOffset": 1112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 329,
+                    "endColumn": 57,
+                    "endOffset": 382
+                },
+                "from": {
+                    "file": "E:\\soft_develope\\project\\Spectrograph\\libuvccamera\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1161,
+                        "endColumn": 57,
+                        "endOffset": 1214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 387,
+                    "endColumn": 43,
+                    "endOffset": 426
+                },
+                "from": {
+                    "file": "E:\\soft_develope\\project\\Spectrograph\\libuvccamera\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1117,
+                        "endColumn": 43,
+                        "endOffset": 1156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 431,
+                    "endColumn": 56,
+                    "endOffset": 483
+                },
+                "from": {
+                    "file": "E:\\soft_develope\\project\\Spectrograph\\libuvccamera\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1018,
+                        "endColumn": 56,
+                        "endOffset": 1070
+                    }
+                }
+            }
+        ]
+    }
+]

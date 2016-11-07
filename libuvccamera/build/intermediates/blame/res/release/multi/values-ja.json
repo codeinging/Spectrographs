@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "E:\\soft_develope\\project\\Spectrograph\\libuvccamera\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ja\\values-ja.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 38,
+                    "endOffset": 89
+                },
+                "from": {
+                    "file": "E:\\soft_develope\\project\\Spectrograph\\libuvccamera\\src\\main\\res\\values-ja\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1073,
+                        "endColumn": 38,
+                        "endOffset": 1107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 94,
+                    "endColumn": 52,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "E:\\soft_develope\\project\\Spectrograph\\libuvccamera\\src\\main\\res\\values-ja\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1151,
+                        "endColumn": 52,
+                        "endOffset": 1199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 147,
+                    "endColumn": 38,
+                    "endOffset": 181
+                },
+                "from": {
+                    "file": "E:\\soft_develope\\project\\Spectrograph\\libuvccamera\\src\\main\\res\\values-ja\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1112,
+                        "endColumn": 38,
+                        "endOffset": 1146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 186,
+                    "endColumn": 54,
+                    "endOffset": 236
+                },
+                "from": {
+                    "file": "E:\\soft_develope\\project\\Spectrograph\\libuvccamera\\src\\main\\res\\values-ja\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1018,
+                        "endColumn": 54,
+                        "endOffset": 1068
+                    }
+                }
+            }
+        ]
+    }
+]

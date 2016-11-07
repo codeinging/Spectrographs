@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.icephone.mphone.spectrograph.ui.widget.UVCCameraTextureView
+            android:id="@+id/UVCCameraTextureView1"
+            android:layout_width="640px"
+            android:layout_height="480px"
+            android:layout_gravity="center"
+            android:layout_marginLeft="60px"
+            android:layout_marginTop="-480px"
+            android:background="#ff000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/chart_title"
+            android:textColor="@color/Durk_Blue" />
+
+        <LinearLayout
+            android:id="@+id/chart"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_weight="20"
+            android:orientation="vertical"
+            android:paddingLeft="0dp"
+            android:paddingRight="10dp">
+
+        </LinearLayout>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="40dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ToggleButton
+                android:id="@+id/capture_button"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/chart"
+                android:layout_centerHorizontal="true"
+                android:layout_weight="1"
+                android:scaleType="centerCrop"
+                android:textOff="@string/start"
+                android:textOn="@string/close"
+                android:textSize="15sp" />
+
+            <ToggleButton
+                android:id="@+id/addBg_button"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textOff="测-背"
+                android:textOn="测+背"
+                android:enabled="false"
+                android:textSize="14sp" />
+
+            <ToggleButton
+                android:id="@+id/pause_button"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textOff="暂停"
+                android:enabled="false"
+                android:textOn="继续" />
+
+            <Button
+                android:id="@+id/save_button"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:enabled="false"
+                android:text="保存"
+                android:textSize="14sp" />
+        </LinearLayout>
+    </LinearLayout>
+</merge>
